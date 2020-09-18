@@ -208,14 +208,14 @@ public class AdminDD extends JFrame {
         jLabel2.setForeground(new Color(255, 255, 255));
         jLabel2.setText("Add Doctor");
 
-        jLabel3.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\home.png")); 
+        jLabel3.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageshome.png")); 
         jLabel3.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel3MousePressed(evt);
             }
         });
 
-        jLabel4.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\logout.png")); 
+        jLabel4.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageslogout.png")); 
         jLabel4.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel4MousePressed(evt);
@@ -248,7 +248,7 @@ public class AdminDD extends JFrame {
 
         jPanel1.add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 30, 1220, 70));
 
-        jLabel1.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png")); 
+        jLabel1.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imagesdoctor1.png")); 
         jPanel1.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 140, 130));
 
         jLabel5.setFont(new Font("Tahoma", 0, 24)); 
@@ -389,14 +389,14 @@ public class AdminDD extends JFrame {
         jLabel22.setForeground(new Color(255, 255, 255));
         jLabel22.setText("Delete Doctor");
 
-        jLabel23.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\home.png")); 
+        jLabel23.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageshome.png")); 
         jLabel23.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel23MousePressed(evt);
             }
         });
 
-        jLabel24.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\logout.png")); 
+        jLabel24.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageslogout.png")); 
         jLabel24.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel24MousePressed(evt);
@@ -429,7 +429,7 @@ public class AdminDD extends JFrame {
 
         jPanel2.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 30, 1220, 70));
 
-        jLabel25.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png")); 
+        jLabel25.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imagesdoctor1.png")); 
         jPanel2.add(jLabel25, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 140, 130));
 
         jLabel26.setFont(new Font("Tahoma", 0, 24)); 
@@ -582,14 +582,14 @@ public class AdminDD extends JFrame {
         jLabel44.setForeground(new Color(255, 255, 255));
         jLabel44.setText("Update Doctor");
 
-        jLabel45.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\home.png")); 
+        jLabel45.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageshome.png")); 
         jLabel45.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel45MousePressed(evt);
             }
         });
 
-        jLabel46.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\logout.png")); 
+        jLabel46.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageslogout.png")); 
         jLabel46.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel46MousePressed(evt);
@@ -622,7 +622,7 @@ public class AdminDD extends JFrame {
 
         jPanel3.add(jPanel12, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 30, 1220, 70));
 
-        jLabel47.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png")); 
+        jLabel47.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imagesdoctor1.png")); 
         jPanel3.add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 140, 130));
 
         jLabel48.setFont(new Font("Tahoma", 0, 24)); 
@@ -793,14 +793,14 @@ public class AdminDD extends JFrame {
         jLabel70.setForeground(new Color(255, 255, 255));
         jLabel70.setText("Search Doctor");
 
-        jLabel71.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\home.png")); 
+        jLabel71.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageshome.png")); 
         jLabel71.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel71MousePressed(evt);
             }
         });
 
-        jLabel72.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\logout.png")); 
+        jLabel72.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageslogout.png")); 
         jLabel72.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel72MousePressed(evt);
@@ -833,7 +833,7 @@ public class AdminDD extends JFrame {
 
         jPanel5.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 30, 1220, 70));
 
-        jLabel73.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png")); 
+        jLabel73.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imagesdoctor1.png")); 
         jPanel5.add(jLabel73, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 140, 130));
 
         jLabel74.setFont(new Font("Tahoma", 0, 24)); 
@@ -962,14 +962,14 @@ public class AdminDD extends JFrame {
         jLabel66.setForeground(new Color(255, 255, 255));
         jLabel66.setText("View Doctor");
 
-        jLabel67.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\home.png")); 
+        jLabel67.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageshome.png")); 
         jLabel67.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel67MousePressed(evt);
             }
         });
 
-        jLabel68.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\logout.png")); 
+        jLabel68.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imageslogout.png")); 
         jLabel68.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent evt) {
                 jLabel68MousePressed(evt);
@@ -1002,7 +1002,7 @@ public class AdminDD extends JFrame {
 
         jPanel4.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 30, 1230, 70));
 
-        jLabel69.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png")); 
+        jLabel69.setIcon(new ImageIcon("D:\\code\\Hospital\\src\\hospital\\imagesdoctor1.png")); 
         jPanel4.add(jLabel69, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 130, 130));
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
