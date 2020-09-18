@@ -1,4 +1,4 @@
-package Hospital.src.hospital;
+package hospital;
 
 import java.awt.*;
 import javax.swing.*;
