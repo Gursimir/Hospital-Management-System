@@ -51,7 +51,7 @@ public class AdminPortal extends JFrame {
         jLabel1.setForeground(new Color(255, 255, 255));
         jLabel1.setText("Admin Portal");
 
-        jButton1.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\button5.png"));
+        jButton1.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\button5.png"));
         jButton1.setBorder(null);
         jButton1.setBorderPainted(false);
         jButton1.addActionListener(new ActionListener() {
@@ -136,7 +136,7 @@ public class AdminPortal extends JFrame {
             }
         });
         
-        jLabel6.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\patient1.png"));
+        jLabel6.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\patient1.png"));
 
         jLabel7.setFont(new Font("Segoe UI", 0, 24));
         jLabel7.setForeground(new Color(59, 98, 114));
@@ -177,7 +177,7 @@ public class AdminPortal extends JFrame {
             }
         });
      
-        jLabel10.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\receptionist1.png"));
+        jLabel10.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\receptionist1.png"));
 
         jLabel11.setFont(new Font("Segoe UI", 0, 24));
         jLabel11.setForeground(new Color(59, 98, 114));
@@ -223,7 +223,7 @@ public class AdminPortal extends JFrame {
 
         jLabel8.setFont(new Font("Segoe UI", 0, 24));
         jLabel8.setForeground(new Color(59, 98, 114));
-        jLabel8.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png"));
+        jLabel8.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\doctor1.png"));
 
         jLabel9.setFont(new Font("Segoe UI", 0, 24));
         jLabel9.setForeground(new Color(59, 98, 114));
@@ -267,7 +267,7 @@ public class AdminPortal extends JFrame {
             }
         });
 
-        jLabel12.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\staff.png"));
+        jLabel12.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\staff.png"));
 
         jLabel13.setFont(new Font("Segoe UI", 0, 24));
         jLabel13.setForeground(new Color(59, 98, 114));
@@ -299,7 +299,7 @@ public class AdminPortal extends JFrame {
 
         jPanel1.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(970, 410, 270, 220));
 
-        jLabel5.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\admin1.png"));
+        jLabel5.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\admin1.png"));
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, -1, -1));
 
         GroupLayout layout = new GroupLayout(getContentPane());
