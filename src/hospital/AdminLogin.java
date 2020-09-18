@@ -32,7 +32,7 @@ public class AdminLogin extends JFrame {
 
         jPanel2.setBackground(new Color(59, 98, 114));
 
-        jLabel2.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\back.png")); 
+        jLabel2.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\back.png")); 
         jLabel2.addMouseListener(new MouseAdapter() {
             public void mousePressed(MouseEvent e) {
                 jLabel2MousePressed(e);
@@ -90,13 +90,13 @@ public class AdminLogin extends JFrame {
         jPasswordField1.setBorder(null);
         jPanel3.add(jPasswordField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(109, 296, 251, 33));
 
-        jLabel1.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\User.png")); 
+        jLabel1.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\User.png")); 
         jPanel3.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 220, -1, 50));
 
-        jLabel3.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\lock.png")); 
+        jLabel3.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\lock.png")); 
         jPanel3.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 290, -1, -1));
 
-        jButton1.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\button4.png")); 
+        jButton1.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\button4.png")); 
         jButton1.setBorder(null);
         jButton1.setBorderPainted(false);
         jButton1.addActionListener(new ActionListener() {
