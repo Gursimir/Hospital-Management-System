@@ -97,9 +97,9 @@ public class HomePage extends JFrame {
 
         jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 160, 450, 460));
         
-        jLabel3.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\admin1.png"));
+        jLabel3.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\admin1.png"));
 
-        jButton1.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\button1.png"));
+        jButton1.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\button1.png"));
         jButton1.setBorder(null);
         jButton1.setBorderPainted(false);
         jButton1.addActionListener(new ActionListener() {
@@ -134,9 +134,9 @@ public class HomePage extends JFrame {
 
         jPanel1.add(jPanel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(550, 160, 300, 220));
 
-        jLabel5.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\receptionist1.png"));
+        jLabel5.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\receptionist1.png"));
 
-        jButton2.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\button2.png"));
+        jButton2.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\button2.png"));
         jButton2.setBorder(null);
         jButton2.setBorderPainted(false);
         jButton2.addActionListener(new ActionListener() {
@@ -171,9 +171,9 @@ public class HomePage extends JFrame {
 
         jPanel1.add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(880, 160, 290, 220));
 
-        jLabel6.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\doctor1.png"));
+        jLabel6.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\doctor1.png"));
 
-        jButton3.setIcon(new ImageIcon("C:\\javaProgram\\Hospital\\src\\main\\resources\\button3.png"));
+        jButton3.setIcon(new ImageIcon("D:\\Hospital\\src\\hospital\\images\\button3.png"));
         jButton3.setBorder(null);
         jButton3.setBorderPainted(false);
         jButton3.addActionListener(new ActionListener() {
